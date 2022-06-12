@@ -40,7 +40,7 @@ public class SortedInsetionINLinkedLIst {
         head.next.next = new Node1(30);
         printList(head);
         System.out.println("List before insertion");
-        head= SortedInsertion(head , 72);
+        head= SortedInsertion(head , 5);
         printList(head);
 
     }
