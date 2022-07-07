@@ -11,8 +11,9 @@ class Phone{
 
 }
 class SmartPhone extends Phone{
+    @Override
     public void on(){
-        System.out.println("TUrning on smartPhone....");
+        System.out.println("Turning on smartPhone....");
     }
     public void music(){
         System.out.println("Playing Music..");
@@ -30,8 +31,10 @@ public class dynamic_method_49 {
 //        SmartPhone  obj1 = new Phone();
 
         obj.ShowTime();
-        obj.on();  //This will run t he method of the object not the refernce
+        obj.on();  //This will run the method of the object not the refernce
 //        obj.swagat();
+        obj.ShowTime();
+//        obj.music;
 //    obj.music(); Not allowed
     }
 }
