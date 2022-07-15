@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="684b8dc7-fc5f-43c0-a40e-cf58539f0174" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Advance_Java_Learning/LInkedLIst_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Advance_Java_Learning/Set_Interface_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Advance_Java_Learning/vectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Advance_Java_Learning/vector_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Circular_Linked_List/InsertionAtBegin_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doubly_Linked_List_gfg/Doubly_Linked_List_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/AbstractClasses/AbstractioDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/AbstractClasses/CWH_AbstractJava_53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Java Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrlst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advance/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advance/.idea/Advance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodeWithHarry/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodeWithHarry/contructors_in_Inheritance_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/contructors_in_Inheritance_46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/Base1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/Base1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/Derived1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/Derived1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/SmartPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/SmartPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/contructors_in_Inheritance_46.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCodeWithHarry/out/production/JavaCodeWithHarry/JavaCodeWithHarry/contructors_in_Inheritance_46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java Program/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/.idea/Java Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java Program/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java Program/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/Circular_Linked_List/circularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java Program/Circular_Linked_List/circularLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/JavaCodeWithHarry/SmartPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java Program/JavaCodeWithHarry/SmartPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java Program/JavaCodeWithHarry/dynamic_method_49.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Java Program/JavaCodeWithHarry/dynamic_method_49.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BiA8N4OgyXVznUIyUz0cZkBxqm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="684b8dc7-fc5f-43c0-a40e-cf58539f0174" name="Changes" comment="" />
+      <created>1657378395661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657378395661</updated>
+    </task>
+    <servers />
+  </component>
+</project>
