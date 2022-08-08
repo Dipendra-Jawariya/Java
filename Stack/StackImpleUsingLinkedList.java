@@ -58,15 +58,9 @@ public class StackImpleUsingLinkedList {
         my.push(40);
         my.push(500);
         System.out.println(my.push(20));
-        System.out.println(
-                my.pop()
-        );
+        System.out.println( my.pop());
         System.out.println(my);
-        System.out.println(
-                my.isEmpty()
-        );
-        System.out.println(
-                my.peek()
-        );
+        System.out.println(my.isEmpty());
+        System.out.println(my.peek());
     }
 }
